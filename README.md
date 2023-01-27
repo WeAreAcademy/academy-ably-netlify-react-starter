@@ -2,7 +2,7 @@
 
 A GitHub template to quickly get started with Ably, and React, hosted on Netlify, using TypeScript.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/academy/academy-ably-netlify-react-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/WeAreAcademy/academy-ably-netlify-react-starter)
 
 ## original text from ably-netlify-starter
 
