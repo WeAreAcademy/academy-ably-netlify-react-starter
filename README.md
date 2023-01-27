@@ -2,7 +2,7 @@
 
 A GitHub template to quickly get started with Ably, and React, hosted on Netlify, using TypeScript.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/academy/academy-ably-netlify-react-starter)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/WeAreAcademy/academy-ably-netlify-react-starter)
 
 ## original text from ably-netlify-starter
 
@@ -60,7 +60,8 @@ echo ABLY_API_KEY=YOUR-API-KEY-HERE > .env
 
 ### Deploying to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ably-labs/netlify-and-ably)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/WeAreAcademy/academy-ably-netlify-react-starter)
+
 
 We've bundled a `netlify.toml` file in the root of the repository, which will configure your build and deployment settings.
 **You will need to add an environment configuration setting** using the netlify UI:
